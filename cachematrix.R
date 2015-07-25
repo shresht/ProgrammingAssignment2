@@ -23,7 +23,7 @@ list(set = set, get = get,
 }
 
 
-## Write a short comment describing this function
+
 ## cacheSolve verifies if the value of m exists and is not NULL.If it exists then
 ## it returns the value.
 ## If it doesnt exist it extracts the matrix(x$get()),calulates the inverse and
